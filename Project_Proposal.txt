@@ -4,6 +4,7 @@
 
 What do I want to make?
  I want to make a platformer with atleast 5 levels. I want enemies, a way to kill the enemies. Coins. A boss fight!! Music. Save game. Hearts. Powerups?
+ Animations. UwU.
 
 Why do I want to make it?
  I want to learn how to create a platformer game. I want to learn how to show graphics using tiles. I want to make a game like mario.
@@ -14,4 +15,4 @@ What am I going to have to learn complete the project?
  I will need to learn how to make an enemy mob with hp. 
 
 Who am I working with?
- Myself. 
+ Myself :(
