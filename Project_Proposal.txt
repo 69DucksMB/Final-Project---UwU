@@ -3,7 +3,7 @@
 # ============================================================ # 
 
 What do I want to make?
- I want to make a platformer with atleast 5 levels. I want enemies, a way to kill the enemies. Coins. A boss fight!! Music. Save game. Hearts. Powerups?
+ I want to make a platformer with atleast 3 levels, 3 parts each. I want enemies, a way to kill the enemies. Coins. A boss fight!! Music. Save game. Hearts. Powerups?
  Animations. UwU.
 
 Why do I want to make it?
